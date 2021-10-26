@@ -5,6 +5,15 @@
 
 \section sec_summary Summary
 
+Everything after this is straight from the cloned repos mentioned in the description of the project.
+The project files have been edited to run on the MTU department servers in Fall 2021,
+which have Bison 3.0.4 and Flex 2.6.1 installed.
+Fixing them was A Time (goodbye weekend).
+Class name: CS4121 Programming Languages
+May these serve more than just me.
+If you like them, feel free to leave a star! It's always nice to know code was useful.
+If I'm no longer around and you have a question, leave an issue - I might take a peek.
+
 This %example shows how to use both <a
 href="http://flex.sourceforge.net/">Flex</a> and <a
 href="http://www.gnu.org/software/bison/">Bison</a> in C++ mode. This way both
